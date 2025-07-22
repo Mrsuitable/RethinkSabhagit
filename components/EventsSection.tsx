@@ -14,7 +14,7 @@ const EventsSection: React.FC<EventsSectionProps> = ({ onDebateSelect }) => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl sm:text-5xl font-serif font-bold text-brand-platinum mb-4">
-            Echoes of Discourse
+           
           </h2>
           <p className="text-xl text-brand-silver-lake max-w-2xl mx-auto leading-relaxed">
             A glimpse into the diverse and thought-provoking topics we explore at ReThink Sabha. Click on a debate to learn more.
