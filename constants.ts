@@ -16,7 +16,7 @@ export const SAMPLE_DEBATE_TOPICS: DebateTopic[] = [
     id: 'dt007',
     title: "Is Indian Modernisation Good?",
     description: "A critical discussion on the multifaceted impacts of modernization in India. This debate explores arguments FOR embracing global interconnectedness and promoting a unified (global) culture, versus arguments AGAINST, focusing on potential loss of indigenous cultures, societal disruptions, and ensuring equitable development. Join us for this vital conversation!",
-    date: "Upcoming - Late 2024",
+    date: "Mid Augest",
     category: "Socio-Cultural Dynamics",
     icon: GlobeIcon,
     argumentsFor: "Proponents argue that modernization, driven by global interconnectedness, is vital for India's progress. Embracing a more unified global culture can foster innovation, economic growth, and access to international knowledge and opportunities. This perspective often highlights the benefits of shared values and standards in a rapidly evolving world.",
