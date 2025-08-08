@@ -25,4 +25,5 @@ export const SAMPLE_DEBATE_TOPICS: DebateTopic[] = [
   }
 ];
 
-export const CLUB_EMAIL = "mrsuitableog@gmail.com";
+export const CLUB_EMAIL = "rethinksabha@gmail.com
+";
