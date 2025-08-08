@@ -31,7 +31,7 @@ const DebateDetailView: React.FC<DebateDetailViewProps> = ({ topic, onClose }) =
               {topic.title}
             </h1>
             <span className="bg-brand-gold text-brand-deep-blue text-sm sm:text-base font-bold px-4 py-2 rounded-full self-start sm:self-center whitespace-nowrap">
-              FREe
+              FREE
             </span>
           </div>
           {topic.date && (
