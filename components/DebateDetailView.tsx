@@ -48,6 +48,7 @@ const DebateDetailView: React.FC<DebateDetailViewProps> = ({ topic, onClose }) =
           <h2 className="text-2xl font-serif font-semibold text-brand-platinum mb-3">About this Debate:</h2>
           <p className="text-lg text-brand-silver-lake leading-relaxed whitespace-pre-line">
             {topic.description}
+            REGISTER ASAPPPP!! 
           </p>
         </div>
 
