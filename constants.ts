@@ -15,13 +15,21 @@ export const SAMPLE_DEBATE_TOPICS: DebateTopic[] = [
   {
     id: 'dt007',
     title:  "Are Competitions good For the Indian society?",
-    
-    description: "A critical discussion on the multifaceted impacts of modernization in India. This debate explores arguments FOR embracing global interconnectedness and promoting a unified (global) culture, versus arguments AGAINST, focusing on potential loss of indigenous cultures, societal disruptions, and ensuring equitable development. Join us for this vital conversation!",
-    date: "Mid Augest",
+     description: "This debate explores whether the nature of US indians being supeeeerrrr competition is good or not.",
+ 
+    date: "TBD",
     category: "Socio-Cultural Dynamics",
     icon: GlobeIcon,
-    argumentsFor: "Proponents argue that modernization, driven by global interconnectedness, is vital for India's progress. Embracing a more unified global culture can foster innovation, economic growth, and access to international knowledge and opportunities. This perspective often highlights the benefits of shared values and standards in a rapidly evolving world.",
-    argumentsAgainst: "Conversely, critics raise concerns about the potential erosion of India's rich indigenous cultures and traditions. They question whether modernization benefits all segments of society equally, pointing to risks of increased social disparities, cultural homogenization, and the challenge of adapting Western models to the Indian context without critical evaluation.",
+    argumentsFor: "Boosts Innovation & Progress – From startups like Zomato and BYJU’s to India’s space mission (Chandrayaan-3), competition pushes us to dream bigger and achieve global recognition.
+
+Encourages Personal Growth – Exams, sports, or even reality shows motivate us to sharpen our skills, set goals, and work harder.
+
+Global Edge – In a world where every country is racing ahead, competition helps India stay relevant and ahead in technology, economy, and talent..",
+    argumentsAgainst: "Mental Health Crisis – The pressure to “be number one” leads to stress, anxiety, and even tragic consequences for students and young professionals.
+
+Unfair Playing Field – Not everyone has equal access to resources; competition often benefits the privileged while leaving others behind.
+
+Kills Collaboration & Empathy – When everyone is busy outshining others, teamwork, kindness, and collective growth take a backseat..",
     googleFormLink: "https://docs.google.com/forms/d/e/1FAIpQLSewZzRvdP3ih5wHf_O1BRtDLNz1PRchoHo0RIOK0I23BqRDvQ/viewform?usp=header",
   }
 ];
