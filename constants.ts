@@ -14,7 +14,8 @@ export const NAVIGATION_LINKS: NavLink[] = [
 export const SAMPLE_DEBATE_TOPICS: DebateTopic[] = [
   {
     id: 'dt007',
-    title: "Is Indian Modernisation Good?",
+    title:  "Are Competitions good For the Indian society?",
+    
     description: "A critical discussion on the multifaceted impacts of modernization in India. This debate explores arguments FOR embracing global interconnectedness and promoting a unified (global) culture, versus arguments AGAINST, focusing on potential loss of indigenous cultures, societal disruptions, and ensuring equitable development. Join us for this vital conversation!",
     date: "Mid Augest",
     category: "Socio-Cultural Dynamics",
